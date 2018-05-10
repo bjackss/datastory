@@ -3,10 +3,10 @@
 ## Why
 
   Following Richard Florida’s proclamation in his landmark *Rise of the Creative Class* creativity has become a kind of economic barometer for cities in the United States. Places from Columbus, Ohio to Lincoln, Nebraska are making major city-planning decisions around how to find “creatives” and convince them to move. While Florida’s work has become a call-to-arms for those in fields such as marketing or urban planning, among those concerned with gentrification and displacement, the rise of the creative class has become synonymous with the neoliberalization of urban space. This seemingly small shift of verbiage from expanding the urban economy to expanding the creative base has seismic effects in terms of who is and is not welcome in America’s cities. What work is creative enough to be deemed so? Where would a creative want to live? What resources make city-life easier on a creative? 
-  <p> Given the semiotically dense nature of the word in relation to American cities, the hashtag, #ACreativeDC greatly interests me. The earliest use of the hashtag dates to January of 2015 and it maintains an active following on both twitter and Instagram.</p> 
+  <p> Given the semiotically dense nature of the word in relation to American cities, the hashtag, #ACreativeDC greatly interests me. The earliest use of the hashtag dates to January of 2015 and it maintains an active following on both Twitter and Instagram.</p> 
 
 ## How
- <p>I conducted my search broadly just considering the use of #ACreativeDC. Given the place-specificity of the hashtag I did not feel the need to put geographic parameters on the search. With the tools at my disposal I honed in on the location of the tweets provided by users. Unsurprisingly the vast majority (around 50%) were from some variant of “Wasington D.C. Surprisingly, the next most common were Annapolis, MD followed by Melbourne Australia. I think the use of this hashtag in the suburbs is interesting and telling in terms of how twitter users live and imagine the boundaries of D.C. I am also very interested in its use far away from the district, it would be interesting to examine how people hold onto attachment to the city after they leave it.</p>
+ <p>I conducted my search broadly just considering the use of #ACreativeDC. Given the place-specificity of the hashtag I did not feel the need to put geographic parameters on the search. With the tools at my disposal I honed in on the location of the tweets provided by users. Unsurprisingly the vast majority (around 50%) were from some variant of “Wasington D.C." Surprisingly, the next most common were Annapolis, MD followed by Melbourne, Australia. I think the use of this hashtag in the suburbs is interesting and telling in terms of how twitter users live and imagine the boundaries of D.C. I am also very interested in its use far away from the district, it would be interesting to examine how people hold onto attachment to the city after they leave it.</p>
  
 ![chart](https://github.com/bjackss/datastory/blob/master/images/chart.png)
 
@@ -18,7 +18,7 @@
 
 
 ## Source Data
-A link to my [data](https://github.com/bjackss/datastory/blob/master/data/%23ACreativeDC%20-%20ACDCT.csv)
+my [data](https://github.com/bjackss/datastory/blob/master/data/%23ACreativeDC%20-%20ACDCT.csv)
 
 
 
